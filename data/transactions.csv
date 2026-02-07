@@ -1,0 +1,11 @@
+Transaction_ID,Customer_ID,Customer_Type,Country,Transaction_Type,Transaction_Amount,Transaction_Date,Channel
+TXN001,CUST001,Individual,India,Cash Deposit,950000,2025-01-05,Branch
+TXN002,CUST002,Individual,India,Online Transfer,15000,2025-01-06,Mobile App
+TXN003,CUST003,Business,India,Cash Deposit,1200000,2025-01-06,Branch
+TXN004,CUST001,Individual,India,Online Transfer,9800,2025-01-07,Mobile App
+TXN005,CUST004,Individual,Nigeria,International Transfer,450000,2025-01-07,Internet Banking
+TXN006,CUST005,Business,India,Cash Withdrawal,900000,2025-01-08,Branch
+TXN007,CUST002,Individual,India,Online Transfer,15000,2025-01-08,Mobile App
+TXN008,CUST001,Individual,India,Cash Deposit,970000,2025-01-09,Branch
+TXN009,CUST006,Individual,Afghanistan,International Transfer,700000,2025-01-09,Internet Banking
+TXN010,CUST003,Business,India,Online Transfer,2500000,2025-01-10,Corporate Portal
