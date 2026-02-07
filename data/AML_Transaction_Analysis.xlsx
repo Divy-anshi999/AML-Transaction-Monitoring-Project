@@ -1,8 +1,0 @@
-| Rule No | AML Red Flag                                      |
-| ------- | ------------------------------------------------- |
-| R1      | Cash transactions > ₹10,00,000                    |
-| R2      | Structuring (multiple small transactions)         |
-| R3      | High-risk country transactions                    |
-| R4      | Sudden increase in transaction volume             |
-| R5      | Large business transactions without clear purpose |
- 
