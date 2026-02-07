@@ -1,0 +1,8 @@
+Case 1: TXN001 – High Cash Deposit
+
+Customer ID: CUST001
+Transaction Amount: ₹9,50,000
+Red Flag: Structuring + repeated cash deposits
+Risk Level: High
+Reason: Multiple cash deposits just below reporting threshold
+Conclusion: Escalated as Suspicious Transaction
