@@ -1,8 +1,0 @@
-| Column         | Description                 |
-| -------------- | --------------------------- |
-| Transaction_ID | From dataset                |
-| Customer_ID    | From dataset                |
-| Amount         | Transaction amount          |
-| Rule_Triggered | R1 / R2 / R3 etc            |
-| Risk_Level     | Low / Medium / High         |
-| Alert_Status   | Normal / Alert / Suspicious |
